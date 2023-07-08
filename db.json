@@ -1,0 +1,53 @@
+{
+  "signup": [
+    {
+      "name": "Ram Sharma",
+      "email": "ramSharm@gmai.com",
+      "mobile": 1232123212,
+      "password": "rams",
+      "id": 1
+    },
+    {
+      "name": "rohit Shamam",
+      "email": "rohit",
+      "mobile": 1232123212,
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "Zaid Kamboo",
+      "email": "zaidkamboo1000@gmail.comr",
+      "mobile": 1234232221,
+      "password": "zaidkamboo09",
+      "id": 3
+    },
+    {
+      "name": "Zaid Kamboo",
+      "email": "zaidkamboo1000@gmail.com",
+      "mobile": 1245663598,
+      "password": "zaidkam",
+      "id": 4
+    },
+    {
+      "name": "Ram Sharma",
+      "email": "ramSharma33@gmai.com",
+      "mobile": 1235456521,
+      "password": "rams",
+      "id": 5
+    },
+    {
+      "name": "Rahul Roy",
+      "email": "rahulroy23@gmail.com",
+      "mobile": 1235458644,
+      "password": "rahul",
+      "id": 6
+    },
+    {
+      "name": "Zaid Shaikh",
+      "email": "zaidshaikh22@gmail.com",
+      "mobile": 1236548799,
+      "password": "zaidshaikh",
+      "id": 7
+    }
+  ]
+}
