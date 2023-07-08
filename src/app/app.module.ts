@@ -15,13 +15,15 @@ import { MatInputModule } from '@angular/material/input';
 import { MatIconModule } from '@angular/material/icon';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { NgToastModule } from 'ng-angular-popup';
+import { AboutComponent } from './Components/about/about.component';
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     MaterialComponent,
     RestaurantdashComponent,
-    SignupComponent
+    SignupComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,

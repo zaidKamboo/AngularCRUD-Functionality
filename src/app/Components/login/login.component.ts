@@ -25,8 +25,7 @@ export class LoginComponent implements OnInit {
   }
   login() {
     this.service.getUserInfo().subscribe({
-      next: (res) => {
-        console.log(res); let user = 0;
+      next: (res) => {; let user = 0;
         for (let index = 0; index < res.length; index++) {
           if (this.formValue.value.email === res[index].email && res[index].password === this.formValue.value.password) {
             user = 1;

@@ -48,6 +48,13 @@
       "mobile": 1236548799,
       "password": "zaidshaikh",
       "id": 7
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "email": "sachint12@gmail.com",
+      "mobile": 1235458844,
+      "password": "sachin",
+      "id": 8
     }
   ]
 }
